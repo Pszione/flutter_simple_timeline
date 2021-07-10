@@ -16,13 +16,14 @@ You will need to add the following dependency in your `pubspec.yaml` file to dow
 dependencies:
   flutter:
     sdk: flutter
-  simple_timeline: 1.0.0
+  simple_timeline: 1.0.1
 ```
 
 
 ## Usage
 
 > import 'package:simple_timeline/simple_timeline.dart';
+
 
 ```
    SimpleTimeLine(timelineList: [
