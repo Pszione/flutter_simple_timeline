@@ -16,7 +16,7 @@ You will need to add the following dependency in your `pubspec.yaml` file to dow
 dependencies:
   flutter:
     sdk: flutter
-  simple_timeline: 0.0.1
+  simple_timeline: 1.0.0
 ```
 
 ## Contributing
