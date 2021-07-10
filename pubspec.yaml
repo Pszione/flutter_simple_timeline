@@ -14,6 +14,5 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  icapps_license: 2.0.0
 
 flutter:
