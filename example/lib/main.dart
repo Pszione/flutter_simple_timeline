@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:simple_timeline/entity/timeline_entity.dart';
-import 'package:simple_timeline/presenter/simple_timeline_impl.dart';
+import 'package:simple_timeline/simple_timeline.dart';
 
 void main() {
   runApp(MyApp());

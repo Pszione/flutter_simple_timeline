@@ -19,6 +19,35 @@ dependencies:
   simple_timeline: 1.0.0
 ```
 
+
+## Usage
+
+> import 'package:simple_timeline/simple_timeline.dart';
+
+```
+   SimpleTimeLine(timelineList: [
+            TimelineEntity(
+                enable: true,
+                description: "Lorem Ipsum",
+                title: "Lorem Ipsum"),
+            TimelineEntity(
+                enable: true,
+                description: "Lorem Ipsum",
+                title: "Lorem Ipsum"),
+            TimelineEntity(
+                enable: true,
+                description: "Lorem Ipsum",
+                title: "Lorem Ipsum"),
+            TimelineEntity(enable: false, title: "Lorem Ipsum"),
+            TimelineEntity(
+                enable: false,
+                title: "Lorem Ipsum",
+                description:
+                'It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.',
+                disableColor: Colors.red)
+          ]),
+```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
