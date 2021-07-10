@@ -1,4 +1,4 @@
-# SimpleTimeine
+# SimpleTimeline
 
 A flutter package that allows you to create basic timelines on your flutter application. This is customizable and easy to plugin to your application. You will find the following features:
 
