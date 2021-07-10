@@ -6,7 +6,7 @@ A flutter package that allows you to create basic timelines on your flutter appl
 * Customizable color options for - Line, Title, Description and Background
 * Tween animation on the line
 
-<image src="simple_timeline.jpeg" height="300em"/>
+<image src="https://github.com/zapiti/simple_timeline/blob/main/simple_timeline.jpeg" height="300em"/>
 
 ## Getting Started
 
