@@ -53,7 +53,7 @@ class TimelineComponentState extends State<SimpleTimeLine>
                   new TimelineItem(
                     lineColor: timeLineList.enable
                         ? widget.lineColor == null
-                            ? Theme.of(context).accentColor
+                            ? Theme.of(context).colorScheme.secondary
                             : widget.lineColor!
                         : timeLineList.disableColor,
                     backgroundColor: widget.backgroundColor == null
